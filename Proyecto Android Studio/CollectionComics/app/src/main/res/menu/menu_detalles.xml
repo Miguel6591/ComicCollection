@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/listarComics"
+        android:icon="@drawable/ic_list_white_48dp"
+        android:orderInCategory="200"
+        android:title="@string/listar"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/crearComic"
+        android:icon="@drawable/ic_file_plus_white_48dp"
+        android:orderInCategory="200"
+        android:title="@string/crear"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/info"
+        android:orderInCategory="300"
+        android:title="Información"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/salir"
+        android:orderInCategory="300"
+        android:title="Salir"
+        app:showAsAction="never">
+    </item>
+
+</menu>

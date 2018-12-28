@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CollectionComics</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="aceptar">Aceptar</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="autor">Autor</string>
+    <string name="editorial">Editorial</string>
+    <string name="descripcion">Descripción</string>
+    <string name="estado">Estado</string>
+    <string name="valoracion">Valoracion</string>
+
+    <string name="guardar">Guardar</string>
+
+    <string name="espera">Completando...</string>
+
+    <string name="crear">Crear Comic</string>
+    <string name="listar">Listar Comics</string>
+    <string name="menu">Menu</string>
+    <string name="info">Información</string>
+    <string name="salir">Salir</string>
+
+    <string name="menuContextVerDetalles">Ver Detalles</string>
+    <string name="menuContextBorrarRecordatorio">Borrar Comic</string>
+
+    <string name="infoMenu">CollectionComics©</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="editorial">
+        <item> Boom! </item>
+        <item> Dark Horse </item>
+        <item> DC </item>
+        <item> Image </item>
+        <item> Marvel </item>
+        <item> Valiant </item>
+        <item> Vertigo </item>
+        <item> Zenescope </item>
+    </string-array>
+
+    <string-array name="estado">
+        <item> Pendiente </item>
+        <item> Acabado </item>
+        <item> Empezado </item>
+    </string-array>
+</resources>
